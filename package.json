@@ -1,0 +1,14 @@
+{
+  "name": "react-bug",
+  "version": "0.0.1",
+  "description": "React bug",
+  "main": "index.js",
+  "dependencies": {
+    "react": "0.11.2",
+    "reactify": "0.14.0",
+    "gulp": "3.8.x",
+    "gulp-browserify": "0.5.x",
+    "gulp-uglify": "0.3.x",
+    "gulp-concat": "2.3.x"
+  }
+}
